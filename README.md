@@ -4,6 +4,5 @@
 - 💞️ I'm looking to collaborate on new challenges.
 - ⚡ Fun fact: Every day is a new learning experience.
 
-<!---
-bsvelez0099/bsvelez0099 The goal is to learn autonomously, practice current development methodologies, and foster a proactive approach to professional growth in the technology field.
---->
+ The goal is to learn autonomously, practice current development methodologies, and foster a proactive approach to professional growth in the technology field.
+
